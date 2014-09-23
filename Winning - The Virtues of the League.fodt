@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2014-06-04T14:18:20.656000000</meta:creation-date><dc:date>2014-08-13T15:04:21.009000000</dc:date><meta:editing-duration>PT15H3M39S</meta:editing-duration><meta:editing-cycles>92</meta:editing-cycles><meta:generator>LibreOffice/4.1.5.3$Windows_x86 LibreOffice_project/1c1366bba2ba2b554cd2ca4d87c06da81c05d24</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="107" meta:word-count="3163" meta:character-count="18641" meta:non-whitespace-character-count="15509"/></office:meta>
+ <office:meta><meta:creation-date>2014-06-04T14:18:20.656000000</meta:creation-date><dc:date>2014-09-23T16:42:52.629000000</dc:date><meta:editing-duration>PT18H25M35S</meta:editing-duration><meta:editing-cycles>103</meta:editing-cycles><meta:generator>LibreOffice/4.1.5.3$Windows_x86 LibreOffice_project/1c1366bba2ba2b554cd2ca4d87c06da81c05d24</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="114" meta:word-count="3270" meta:character-count="19222" meta:non-whitespace-character-count="15986"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="int">31574</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="int">182801</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="int">29732</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="int">19339</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="int">29730</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="int">20807</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="int">10001</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="int">35107</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="int">7895</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="int">192938</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="int">31574</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="int">29730</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="int">50911</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="int">182801</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="int">29729</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="int">203606</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -31,7 +31,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1161329</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1411238</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
@@ -204,6 +204,14 @@
    <style:paragraph-properties fo:margin-left="0.2354in" fo:margin-right="0in" fo:text-indent="-0.2354in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
+  <style:style style:name="Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.4626in" style:type="center"/>
+     <style:tab-stop style:position="6.9252in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
   </style:style>
@@ -278,322 +286,398 @@
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00043a9b"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="0005cfe2"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00043a9b"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00072c0a"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="0005cfe2"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="000a9f5a"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00072c0a"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="00072c0a" officeooo:paragraph-rsid="00072c0a"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00125dcb"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00125dcb"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="00072c0a"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000bf480"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000de843" officeooo:paragraph-rsid="000de843"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000e629a" officeooo:paragraph-rsid="000e629a"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:rsid="000fa9ba" officeooo:paragraph-rsid="000fa9ba"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0007ff44" officeooo:paragraph-rsid="0007ff44"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0008c409" officeooo:paragraph-rsid="0008c409"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0008c409"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="0007ff44"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000de843" officeooo:paragraph-rsid="000de843"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000de843"/>
-  </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000e629a" officeooo:paragraph-rsid="000e629a"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000fa9ba" officeooo:paragraph-rsid="000fa9ba"/>
-  </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000fa9ba"/>
-  </style:style>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading">
    <style:text-properties officeooo:rsid="00072c0a" officeooo:paragraph-rsid="00072c0a"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading">
-   <style:text-properties officeooo:rsid="0005cfe2"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading">
-   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000bf480"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000de843" officeooo:paragraph-rsid="000de843"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000e629a" officeooo:paragraph-rsid="000e629a"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000fa9ba" officeooo:paragraph-rsid="000fa9ba"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="00125dcb" officeooo:paragraph-rsid="00125dcb"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0007ff44" officeooo:paragraph-rsid="0007ff44"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a"/>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0008c409" officeooo:paragraph-rsid="0008c409"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0008c409"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0007ff44"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties style:font-name="Arial1" officeooo:paragraph-rsid="0005cfe2"/>
-  </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
-  </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0005cfe2"/>
-  </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
-  </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
-   <style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Subtitle">
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Quotations">
-   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
-  </style:style>
-  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
-  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000de843" officeooo:paragraph-rsid="000de843"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000de843"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000e629a" officeooo:paragraph-rsid="000e629a"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000fa9ba" officeooo:paragraph-rsid="000fa9ba"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000fa9ba"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="0011b871" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
-  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="00043a9b" officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
-   <style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:rsid="00072c0a" officeooo:paragraph-rsid="00072c0a"/>
   </style:style>
-  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:rsid="0005cfe2"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:rsid="000e629a" officeooo:paragraph-rsid="000e629a"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0007ff44" officeooo:paragraph-rsid="0007ff44"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
-  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="0007ff44" officeooo:paragraph-rsid="0007ff44"/>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties style:font-name="Arial1" officeooo:paragraph-rsid="0005cfe2"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="0005cfe2" officeooo:paragraph-rsid="0005cfe2"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0005cfe2"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:break-before="page"/>
   </style:style>
   <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
    <style:text-properties officeooo:rsid="0011b871" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
-  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
-   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Subtitle">
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
   </style:style>
-  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Quotations">
+   <style:text-properties officeooo:paragraph-rsid="000e629a"/>
   </style:style>
   <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:rsid="0011b871" officeooo:paragraph-rsid="0011b871"/>
   </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0011b871" officeooo:paragraph-rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="00143227"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000fa9ba"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0008c409" officeooo:paragraph-rsid="001588a6"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001588a6" officeooo:paragraph-rsid="001588a6"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" officeooo:rsid="001588a6" officeooo:paragraph-rsid="001588a6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="auto" fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0007ff44" officeooo:paragraph-rsid="0007ff44"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="0011b871" officeooo:paragraph-rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="000a9f5a"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="000a9f5a" officeooo:paragraph-rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:font-size="14pt" officeooo:rsid="00143227" officeooo:paragraph-rsid="00143227" style:font-size-asian="12.25pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Footer">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties officeooo:rsid="00043a9b"/>
+   <style:text-properties officeooo:rsid="001588a6"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties officeooo:rsid="0005cfe2"/>
+   <style:text-properties officeooo:rsid="00043a9b"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-style="italic"/>
+   <style:text-properties officeooo:rsid="0005cfe2"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="000e629a" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties fo:font-style="italic" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="000e629a" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="000a9f5a" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="00072c0a"/>
+   <style:text-properties fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="000a9f5a" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="0008c409"/>
+   <style:text-properties officeooo:rsid="00072c0a"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-weight="bold"/>
+   <style:text-properties officeooo:rsid="0008c409"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0008c409" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0007ff44" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0008c409" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000a9f5a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0007ff44" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000de843" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000a9f5a" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T18" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000fa9ba" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000de843" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T19" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="0007ff44"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000fa9ba" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T20" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000a9f5a"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0007ff44"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000de843"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000a9f5a"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="000fa9ba"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000de843"/>
   </style:style>
   <style:style style:name="T23" style:family="text">
-   <style:text-properties officeooo:rsid="0007ff44"/>
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="000fa9ba"/>
   </style:style>
   <style:style style:name="T24" style:family="text">
-   <style:text-properties officeooo:rsid="000a9f5a"/>
+   <style:text-properties officeooo:rsid="0007ff44"/>
   </style:style>
   <style:style style:name="T25" style:family="text">
-   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="000a9f5a"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="000a9f5a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties fo:font-weight="normal" officeooo:rsid="000e629a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000a9f5a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:font-name="Arial1"/>
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="000e629a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
-   <style:text-properties style:font-name="Arial1" officeooo:rsid="00072c0a"/>
+   <style:text-properties style:font-name="Arial1"/>
   </style:style>
   <style:style style:name="T30" style:family="text">
-   <style:text-properties officeooo:rsid="000ac4d8"/>
+   <style:text-properties style:font-name="Arial1" officeooo:rsid="00072c0a"/>
   </style:style>
   <style:style style:name="T31" style:family="text">
-   <style:text-properties officeooo:rsid="000bf480"/>
+   <style:text-properties officeooo:rsid="000ac4d8"/>
   </style:style>
   <style:style style:name="T32" style:family="text">
-   <style:text-properties officeooo:rsid="000dcb75"/>
+   <style:text-properties officeooo:rsid="000bf480"/>
   </style:style>
   <style:style style:name="T33" style:family="text">
-   <style:text-properties officeooo:rsid="000de843"/>
+   <style:text-properties officeooo:rsid="000dcb75"/>
   </style:style>
   <style:style style:name="T34" style:family="text">
-   <style:text-properties officeooo:rsid="000e629a"/>
+   <style:text-properties officeooo:rsid="000de843"/>
   </style:style>
   <style:style style:name="T35" style:family="text">
-   <style:text-properties officeooo:rsid="000fa9ba"/>
+   <style:text-properties officeooo:rsid="000e629a"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties officeooo:rsid="000fd4f8"/>
+   <style:text-properties officeooo:rsid="000fa9ba"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="000fd4f8"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
    <style:text-properties officeooo:rsid="0011b871"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties officeooo:rsid="00125dcb"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties officeooo:rsid="00143227"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="001588a6"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
-   <style:footer-style/>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0in" fo:margin-top="0.1965in"/>
+   </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm3">
    <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
     <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
@@ -602,11 +686,15 @@
   </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
-  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" style:next-style-name="Standard"/>
-  <style:master-page style:name="Index" style:page-layout-name="pm1"/>
-  <style:master-page style:name="Footnote" style:page-layout-name="pm2"/>
-  <style:master-page style:name="Endnote" style:page-layout-name="pm2"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:footer>
+    <text:p text:style-name="P1"><text:span text:style-name="T1">Page </text:span><text:page-number text:select-page="current">9</text:page-number></text:p>
+   </style:footer>
+  </style:master-page>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" style:next-style-name="Standard"/>
+  <style:master-page style:name="Index" style:page-layout-name="pm2"/>
+  <style:master-page style:name="Footnote" style:page-layout-name="pm3"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm3"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -616,157 +704,164 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P52"><text:span text:style-name="T28">Winning: </text:span><text:span text:style-name="T29">Virtues of the League</text:span></text:p>
-   <text:p text:style-name="P46">A Free Tactics and Strategy Guide for League of Legends <text:span text:style-name="T37">and for Life</text:span></text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P9">Version 0.1</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">Written by</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">Matthew Marchese</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">This work is an early draft and is not yet licensed. <text:span text:style-name="T36">It will most likely be release under an Open Source license.</text:span></text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P9">Copyright (c) Matthew Marchese, 2014</text:p>
+   <text:p text:style-name="P67"><text:span text:style-name="T29">Winning: </text:span><text:span text:style-name="T30">Virtues of the League</text:span></text:p>
+   <text:p text:style-name="P58">A Free Tactics and Strategy Guide for League of Legends <text:span text:style-name="T38">and for Life</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P13">Version 0.<text:span text:style-name="T40">2</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13">Written by</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13">Matthew Marchese</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="P13">This work is an early draft and is not yet licensed. <text:span text:style-name="T37">It will most likely be release under an Open Source license.</text:span></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P13">Copyright (c) Matthew Marchese, 2014</text:p>
    <text:h text:style-name="P56" text:outline-level="1">Chapter 1</text:h>
-   <text:h text:style-name="P43" text:outline-level="2">Introduction to Winning</text:h>
-   <text:p text:style-name="P50">Everyone wants to win. We want to win at life, our jobs, our goals in life, and when we play games. Why do we want to win? Mainly because winning is fun. The fact that you&apos;re interesting in reading this ebook suggests that you&apos;re interested in winning.</text:p>
-   <text:p text:style-name="P49">League of Legends is an incredibly fun game to play. <text:span text:style-name="T32">With one of, if not the largest, player bases on the internet, the numbers reflect this truth. As of January, 2014 there were more than 27 million players; 7.5 million gamers playing at one time every day.</text:span><text:span text:style-name="T32"><text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-       <text:p text:style-name="P60">http://blogs.wsj.com/digits/2014/01/27/player-tally-for-league-of-legends-surges/</text:p></text:note-body></text:note></text:span><text:span text:style-name="T32"> Riot Games has done an excellent job introducing new players to lane-based games by including tutorials and games against “Bots” (CPU opponents) of various difficulties. In addition, Riot has been continually adjusting the League ranking system in order to match player skill levels when playing player-vs-player and modifying champions themselves in order to keep the game balanced.</text:span></text:p>
-   <text:h text:style-name="P36" text:outline-level="1">Chapter <text:span text:style-name="T37">2</text:span></text:h>
-   <text:h text:style-name="P42" text:outline-level="2">How to win in Solo Queue</text:h>
-   <text:p text:style-name="P26">Play<text:span text:style-name="T24">ing</text:span> with strangers is <text:span text:style-name="T34">always a challenge; even more challenging than playing ranked as a team</text:span>. <text:span text:style-name="T34">In almost every game you are going</text:span> to get <text:span text:style-name="T34">matched with</text:span> someone is not <text:span text:style-name="T34">on the same</text:span> skill <text:span text:style-name="T34">level as you are with the champion or role they choose to play. There is also a risk you will get matched in a game with a troll</text:span>, <text:span text:style-name="T34">or possibly someone who </text:span>does not have a comprehensive knowledge of the game, or <text:span text:style-name="T34">one</text:span> <text:span text:style-name="T34">who plays more passive or more aggressive than you. “Why?!” You might ask yourself rhetorically. “Why did I have to get matched with </text:span><text:span text:style-name="T5">this</text:span><text:span text:style-name="T34"> player?” </text:span></text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T34">With the above scenarios</text:span> in mind, <text:span text:style-name="T34">there are various ways you can react to the “problems” that are occurring. The wrong way to react is to do in a non-constructive way. Examples of non-constructive ways to react are as follows:</text:span></text:p>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="P26"/>
-   <text:p text:style-name="Heading">1. Play <text:span text:style-name="T34">with your team in mind</text:span>.</text:p>
-   <text:p text:style-name="P25">If you truly care about winning, you must be able to be a good lead<text:span text:style-name="T35">er</text:span>. Leaders unite people for unified causes, create stable environments for success. <text:span text:style-name="T35">They</text:span> facilitate peace, order, and <text:span text:style-name="T35">teamwork</text:span>. <text:span text:style-name="T35">In order to win you must lead by playing with your team in mind. When playing Summoner&apos;s Rift, you must realize there are four other members of your team who need proper CS, kills, and assists. Having one champion that is strong on your team makes for an unbalanced team. This creates an advantage for the enemy team. In team fights the enemy team will focus the player on your team that is strong. Upon his death, since the rest of his team is not strong, they will most likely be crushed by the enemy team. After a couple of aces the enemy team will most likely win.</text:span></text:p>
-   <text:p text:style-name="P27">A good team is one that shares CS, kills, and assists. The key in this isn&apos;t the numbers, it&apos;s the gold and experience that is obtained by sharing. When gold and experience is shared among the team, the team then gathers strength together and becomes like an unstoppable force.</text:p>
-   <text:p text:style-name="Heading"><text:soft-page-break/>2. Learn to play any role.</text:p>
-   <text:p text:style-name="P25">It&apos;s great to master one or two specialized roles, especially when playing 5 vs 5 ranked games, however the game is different if you are going to be playing solo queues. In solo queues, you never know what specialized roles you will be</text:p>
-   <text:p text:style-name="P32">3. Learn how to counter pick.</text:p>
-   <text:p text:style-name="P13">Counter picking can turn a difficult situation into a </text:p>
-   <text:p text:style-name="P31">Have fun.</text:p>
+   <text:h text:style-name="P54" text:outline-level="2">Introduction to Winning</text:h>
+   <text:p text:style-name="P36">Everyone wants to win. We want to win at life, <text:span text:style-name="T40">homework, tests,</text:span> jobs, goals in life, and <text:span text:style-name="T40">especially </text:span>when <text:span text:style-name="T40">we </text:span>game. Why do we want to win? Mainly because winning is fun. The fact that you&apos;re interesting in reading this ebook suggests that you&apos;re interested in winning. <text:span text:style-name="T40">The scope of this book is not to go in depth into game theory, but it is to cover some of the important concepts that are closely connected to winning.</text:span></text:p>
+   <text:h text:style-name="P75" text:outline-level="3">Mindset</text:h>
+   <text:p text:style-name="P62"><text:span text:style-name="T40">A bit part of winning is your mindset. A persons&apos; mindset has nothing to do with how skilled they are at <text:s/>a particular task. It has everything to do with what they are thinking while the are doing a particular task.</text:span></text:p>
+   <text:p text:style-name="P28">League of Legends is an incredibly fun game to play. <text:span text:style-name="T33">With one of, if not the largest, player bases on the internet, the numbers reflect this truth. As of January, 2014 there were more than 27 million players; 7.5 million gamers playing at one time every day.</text:span><text:span text:style-name="T33"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+       <text:p text:style-name="P60">http://blogs.wsj.com/digits/2014/01/27/player-tally-for-league-of-legends-surges/</text:p></text:note-body></text:note></text:span><text:span text:style-name="T33"> Riot Games has done an excellent job introducing new players to lane-based games by including tutorials and games against “Bots” (CPU opponents) of various difficulties. In addition, Riot has been continually adjusting the League ranking system in order to match player skill levels when playing player-vs-player and modifying champions themselves in order to keep the game balanced.</text:span></text:p>
+   <text:h text:style-name="P45" text:outline-level="1">Chapter <text:span text:style-name="T38">2</text:span></text:h>
+   <text:h text:style-name="P52" text:outline-level="2">How to win in Solo Queue</text:h>
+   <text:p text:style-name="P33">Play<text:span text:style-name="T25">ing</text:span> with strangers is <text:span text:style-name="T35">always a challenge; even more challenging than playing ranked as a team</text:span>. <text:span text:style-name="T35">In almost every game you are going</text:span> to get <text:span text:style-name="T35">matched with</text:span> someone is not <text:span text:style-name="T35">on the same</text:span> skill <text:span text:style-name="T35">level as you are with the champion or role they choose to play. There is also a risk you will get matched in a game with a troll</text:span>, <text:span text:style-name="T35">or possibly someone who </text:span>does not have a comprehensive knowledge of the game, or <text:span text:style-name="T35">one</text:span> <text:span text:style-name="T35">who plays more passive or more aggressive than you. “Why?!” You might ask yourself rhetorically. “Why did I have to get matched with </text:span><text:span text:style-name="T6">this</text:span><text:span text:style-name="T35"> player?” </text:span></text:p>
+   <text:p text:style-name="P33"><text:span text:style-name="T35">With the above scenarios</text:span> in mind, <text:span text:style-name="T35">there are various ways you can react to the “problems” that are occurring. The wrong way to react is to do in a non-constructive way. Examples of non-constructive ways to react are as follows:</text:span></text:p>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="P33"/>
+   <text:p text:style-name="Heading">1. Play <text:span text:style-name="T35">with your team in mind</text:span>.</text:p>
+   <text:p text:style-name="P32">If you truly care about winning, you must be able to be a good lead<text:span text:style-name="T36">er</text:span>. Leaders unite people for unified <text:soft-page-break/>causes, create stable environments for success. <text:span text:style-name="T36">They</text:span> facilitate peace, order, and <text:span text:style-name="T36">teamwork</text:span>. <text:span text:style-name="T36">In order to win you must lead by playing with your team in mind. When playing Summoner&apos;s Rift, you must realize there are four other members of your team who need proper CS, kills, and assists. Having one champion that is strong on your team makes for an unbalanced team. This creates an advantage for the enemy team. In team fights the enemy team will focus the player on your team that is strong. Upon his death, since the rest of his team is not strong, they will most likely be crushed by the enemy team. After a couple of aces the enemy team will most likely win.</text:span></text:p>
+   <text:p text:style-name="P34">A good team is one that shares CS, kills, and assists. The key in this isn&apos;t the numbers, it&apos;s the gold and experience that is obtained by sharing. When gold and experience is shared among the team, the team then gathers strength together and becomes like an unstoppable force.</text:p>
+   <text:p text:style-name="Heading">2. Learn to play any role.</text:p>
+   <text:p text:style-name="P32">It&apos;s great to master one or two specialized roles, especially when playing 5 vs 5 ranked games, however the game is different if you are going to be playing solo queues. In solo queues, you never know what specialized roles you will be</text:p>
+   <text:p text:style-name="P41">3. Learn how to counter pick.</text:p>
+   <text:p text:style-name="P17">Counter picking can turn a difficult situation into a </text:p>
+   <text:p text:style-name="P40">Have fun.</text:p>
    <text:p text:style-name="Text_20_body"/>
    <text:p text:style-name="Heading">Warding</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Counter<text:span text:style-name="T2">ing</text:span></text:h>
-   <text:p text:style-name="P30">Champion Picks</text:p>
-   <text:p text:style-name="P15">Counter picking is an important concept <text:span text:style-name="T36">that is developed over </text:span>experience <text:span text:style-name="T36">and knowledge of the champions, however there are ways to supplement this knowledge. There are many websites that exist that will help you choose champions that will counter other champions. Speaking generally, counter picking is effective to help you win the laning phase.</text:span></text:p>
-   <text:p text:style-name="P21">[Describe the logic behind counter picking. Provide a few examples.]</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">Counter<text:span text:style-name="T3">ing</text:span></text:h>
+   <text:p text:style-name="P39">Champion Picks</text:p>
+   <text:p text:style-name="P20">Counter picking is an important concept <text:span text:style-name="T37">that is developed over </text:span>experience <text:span text:style-name="T37">and knowledge of the champions, however there are ways to supplement this knowledge. There are many websites that exist that will help you choose champions that will counter other champions. Speaking generally, counter picking is effective to help you win the laning phase.</text:span></text:p>
+   <text:p text:style-name="P26">[Describe the logic behind counter picking. Provide a few examples.]</text:p>
    <text:p text:style-name="Heading">Item Builds</text:p>
-   <text:p text:style-name="P15">Another way to counter an enemy team is to build items that counter their items. </text:p>
-   <text:p text:style-name="P21">[Describe the logic behind counter picking weapons. Provide a few examples.]</text:p>
-   <text:p text:style-name="P15"/>
-   <text:h text:style-name="P36" text:outline-level="1">Chapter <text:span text:style-name="T37">3</text:span></text:h>
-   <text:h text:style-name="P42" text:outline-level="2">How to win 5 VS 5 Ranked Teams</text:h>
-   <text:p text:style-name="P51"/>
-   <text:p text:style-name="P3">1. Use a good <text:span text:style-name="T34">Voice Over IP (VOIP)</text:span> client. <text:span text:style-name="T24">This is extremely important for good communication between you and your team mates. If you watch the challenger matches you&apos;ll notice, even though they are sitting next to each other, all of the team members are wearing headsets. Fast planning and good communication is one of the essential keys to winning games. Your team needs to be able to execute their goals faster than the opposing team in order to obtain the win.</text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P10">When the writers of this guide play, they use Mumble client. Mumble is free and Open Source and extremely easy to set up. It offers a variable bit rate, <text:span text:style-name="T31">a </text:span>push to talk <text:span text:style-name="T31">function, and a game overlay that graphically displays which person in the call is speaking</text:span>. </text:p>
-   <text:p text:style-name="P10"/>
-   <text:p text:style-name="P11"><text:soft-page-break/>You can get Mumble here:</text:p>
-   <text:p text:style-name="P11"><text:a xlink:type="simple" xlink:href="http://mumble.sourceforge.net/"><text:span text:style-name="T31">http://mumble.sourceforge.net/</text:span></text:a></text:p>
+   <text:p text:style-name="P20">Another way to counter an enemy team is to build items that counter their items. </text:p>
+   <text:p text:style-name="P26">[Describe the logic behind counter picking weapons. Provide a few examples.]</text:p>
+   <text:p text:style-name="P20"/>
+   <text:h text:style-name="P45" text:outline-level="1"><text:soft-page-break/>Chapter <text:span text:style-name="T38">3</text:span></text:h>
+   <text:h text:style-name="P52" text:outline-level="2">How to win 5 VS 5 Ranked Teams</text:h>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P7">1. <text:span text:style-name="T39">Communicate well</text:span></text:p>
+   <text:p text:style-name="P6">Use a good <text:span text:style-name="T35">Voice Over IP (VOIP)</text:span> client. <text:span text:style-name="T25">This is extremely important for good communication between you and your team mates. If you watch the challenger matches you&apos;ll notice, even though they are sitting next to each other, all of the team members are wearing headsets. Fast planning and good communication is one of the essential keys to winning games. Your team needs to be able to execute their goals faster than the opposing team in order to obtain the win.</text:span></text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P10">Oth<text:span text:style-name="T31">e</text:span>r good alternatives include:</text:p>
-   <text:p text:style-name="P10"><text:a xlink:type="simple" xlink:href="http://www.skype.com/">Skype</text:a> (by Microsoft Inc.). <text:span text:style-name="T35">Skype is a major platform that is easy to use and does not require setting up a personal server or renting a server to use. The writer of this guide used Skype for a couple of years before switching to Mumble.</text:span></text:p>
-   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="http://www.teamspeak.com/"><text:span text:style-name="T24">TeamSpeak</text:span></text:a><text:span text:style-name="T24"> (by </text:span>TeamSpeak Systems GmbH<text:span text:style-name="T24">).</text:span></text:p>
-   <text:p text:style-name="P7"><text:a xlink:type="simple" xlink:href="http://www.ventrilo.com/"><text:span text:style-name="T24">Ventrillo</text:span></text:a><text:span text:style-name="T24"> (by </text:span>Flagship Industries Inc.<text:span text:style-name="T24">). </text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">2. Each player should learn <text:span text:style-name="T35">to play a </text:span>primary role<text:span text:style-name="T31">, and a secondary role with a few champions.</text:span></text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">3. <text:span text:style-name="T31">Assign general objective responsibilities per teammate.</text:span></text:p>
+   <text:p text:style-name="P14">When the writers of this guide play, they use Mumble client. Mumble is free and Open Source and extremely easy to set up. It offers a variable bit rate, <text:span text:style-name="T32">a </text:span>push to talk <text:span text:style-name="T32">function, and a game overlay that graphically displays which person in the call is speaking</text:span>. </text:p>
    <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14">Objective responsibilities should be assigned to each player on your team. The major brunt of these responsibilities is warding. Games are won and lost because of vision control. Remaining in control of map vision makes safe split pushing, getting drake and Baron possible. As of Season 4, there is no reason why every member on the cannot buy a pink ward at some point early in the game. Placing pink wards in allied jungle is one way to stay on top of map vision control. See the image for suggested pink ward locations.</text:p>
-   <text:p text:style-name="P14"/>
-   <text:p text:style-name="P14">It takes </text:p>
-   <text:p text:style-name="P1"/>
-   <text:h text:style-name="P54" text:outline-level="1">Chapter <text:span text:style-name="T37">4</text:span></text:h>
-   <text:h text:style-name="P58" text:outline-level="2">Learning Valuable Life Lessons through League of Legends</text:h>
-   <text:p text:style-name="P48">It is for this reason valuable life lessons can be learned though playing it. During the course of the game a player faces many decisions that could change the outcome of the game. Should he continue to push a lane alone, or join his team? Should he respond to <text:span text:style-name="T30">multiple allied top lane</text:span> deaths by <text:span text:style-name="T31">raging against his top lane player, or calmly give constructive suggestions? </text:span></text:p>
-   <text:h text:style-name="P34" text:outline-level="1"><text:span text:style-name="T24">Game </text:span>Terminology</text:h>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Feed"><text:span text:style-name="T14">Feed</text:span></text:a><text:span text:style-name="T11"> – </text:span><text:span text:style-name="T12">Feeding</text:span> is the act of being killed repeatedly, and thereby assisting the enemy team. This can happen by repeatedly overextending the champions capabilities, by lack of skill, false positioning, being too weak and thereby unable to compete with any other champion, or even intentionally. </text:p>
-   <text:p text:style-name="P16">Throw – <text:span text:style-name="T11">To throw, also known as </text:span>“<text:span text:style-name="T11">Throwing,” is to make a bad choice that could result in the loss of an objective; sometimes the loss of the game.</text:span></text:p>
-   <text:p text:style-name="P16">Last hit – <text:span text:style-name="T11">Last hitting is getting the final damage on a Champion, Tower, Creep, or Jungle creature. You will gain gold from last hitting any of these objects. </text:span></text:p>
-   <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Damage"><text:span text:style-name="T16">Damage</text:span></text:a><text:span text:style-name="T24"> – The term damage </text:span>may refer to four different things: <text:span text:style-name="T24">Attack Damage, Physical Damage, Magic Damage, True Damage (see below).</text:span></text:p>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Attack_damage"><text:span text:style-name="T15">Attack Damage</text:span></text:a><text:span text:style-name="T23"> (AD) – </text:span>a champion statistic which directly affects how much physical damage a champion does with its autoattacks and some abilities. </text:p>
-   <text:p text:style-name="P20"><text:soft-page-break/><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Physical_damage"><text:span text:style-name="T16">Physical Damage</text:span></text:a><text:span text:style-name="T24"> (PD) – </text:span>a type of damage that champions&apos; autoattacks, some abilities, minions, and turrets deal. Armor reduces incoming physical damage.</text:p>
-   <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_damage"><text:span text:style-name="T16">Magic Damage</text:span></text:a><text:span text:style-name="T24"> (also known as Ability Power or AP) – </text:span>a type of damage that most abilities, items, and on-hit effects deal. Magic resistance reduces incoming magic damage. </text:p>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/True_damage"><text:span text:style-name="T14">True Damage</text:span></text:a><text:span text:style-name="T11"> –</text:span> a type of damage that some abilities and spells deal. This damage cannot be reduced and always does exactly the value stated. </text:p>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Armor_penetration"><text:span text:style-name="T14">Armor Penetration</text:span></text:a><text:span text:style-name="T11"> – </text:span>a champion statistic that allows the champion to ignore some or all of a target&apos;s armor. All champions have 0 base armor penetration but can increase it with items, runes, masteries and some champion abilities. This <text:span text:style-name="T3">cannot</text:span> affect enemy armor beyond 0 to deal bonus damage. </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T12">Armor reduction </text:span>is the effect of some items and champion abilities that temporarily reduces the armor of one or more targets. This allows allies to benefit from the reduction of armor. This <text:span text:style-name="T3">can</text:span> reduce armor below 0, resulting in bonus damage (see Armor). </text:p>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_penetration"><text:span text:style-name="T14">Magic Penetration</text:span></text:a><text:span text:style-name="T11"> – </text:span><text:span text:style-name="T12">Magic penetration</text:span> (or <text:span text:style-name="T12">spell penetration</text:span>) is a champion statistic which allows the magic damage done from their abilities, enhanced attacks, etc. to ignore some or all of a target&apos;s magic resistance. All champions have 0 base magic penetration but can increase it with items, runes or abilities for a few champions. This <text:span text:style-name="T3">cannot</text:span> affect enemy magic resistance beyond 0 to deal bonus damage. </text:p>
-   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_resistance"><text:span text:style-name="T17">Magic Resistance</text:span></text:a><text:span text:style-name="T17"> </text:span><text:span text:style-name="T33">– </text:span><text:span text:style-name="T12">Magic </text:span><text:span text:style-name="T21">r</text:span><text:span text:style-name="T12">esistance</text:span> (or <text:span text:style-name="T12">MR</text:span>) is a stat that all units have, including minions, monsters, and buildings. Increasing magic resistance reduces the magic damage the unit takes. Each champion begins with some magic resistance which may increase with level. You can gain additional magic resistance from abilities, items, masteries, and runes. Magic resistance stacks additively. </text:p>
-   <text:p text:style-name="Text_20_body">All champions begin with 30 base magic resistance. All champions that do gain magic resistance per level gain 1.<text:span text:style-name="T33">25</text:span> magic resistance per level, reaching 5<text:span text:style-name="T33">2</text:span>.<text:span text:style-name="T33">5</text:span> base magic resistance at level 18. </text:p>
-   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Armor"><text:span text:style-name="T17">Armor</text:span></text:a><text:span text:style-name="T33"> – </text:span><text:span text:style-name="T12">Armor</text:span> is a stat shared by all units, including minions, monsters, and buildings. Increasing armor reduces the physical damage the unit takes. Each champion begins with some armor which increases with level (Thresh being the only exception). You can gain additional armor from abilities, items, masteries, and runes. Armor stacks additively. </text:p>
-   <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Mastery"><text:span text:style-name="T16">Masteries</text:span></text:a><text:span text:style-name="T26"> – </text:span>A <text:span text:style-name="T13">Mastery</text:span><text:span text:style-name="T25"> </text:span>is an area that a summoner is able to focus their intense magical training into, categorized into three specific categories, which are collectively known as masteries. Some of the more advanced masteries require not only a working knowledge of previous masteries within a single category, but also the knowledge of a specific mastery. As a summoner gains levels of power within the League of Legends, they are able to select which specific areas of interest to focus on. </text:p>
-   <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Category:Support_champion"><text:span text:style-name="T15">Support</text:span></text:a><text:span text:style-name="T23"> – </text:span><text:span text:style-name="T13">Supports</text:span> make plays by enabling their allies through buffs and heals, or by disrupting enemy lines through crowd control. From laning to late game teamfights, supports create advantages and opportunities for their teammates to capitalize on. A skilled support gives their team the edge it needs to claim victory, and can turn the tide of battle with just one well-timed play. </text:p>
-   <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/ADC"><text:span text:style-name="T15">ADC</text:span></text:a><text:span text:style-name="T23"> – </text:span><text:span text:style-name="T13">ADC</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T12">,</text:span> now officially known as <text:span text:style-name="T13">Marksmen</text:span><text:span text:style-name="T12">,</text:span> <text:span text:style-name="T24">typically </text:span>refer<text:span text:style-name="T24">s</text:span> to champions who have been tagged as <text:span text:style-name="T25">Attack</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T25">Damage</text:span><text:span text:style-name="T12"> </text:span><text:span text:style-name="T25">Carries.</text:span></text:p>
-   <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Nexus_Obelisk"><text:span text:style-name="T19">Nexus Obelisk</text:span></text:a><text:span text:style-name="T23"> – The </text:span><text:span text:style-name="T15">Nexux Obelisk</text:span><text:span text:style-name="T23"> is a special type of turret. It is located at each team&apos;s Spawn Pool and is untargetable (even by Ohmwrecker). On Summoner&apos;s Rift, Proving Grounds (), Twisted Treeline, and Howling Abyss, the Nexus Obelisk is near the shop on each team. It deals 1000 true damage per shot with an attack speed of 2.0. Its damage is not blocked by any type of defensive abilities or stats such as armor, magic resistance. </text:span></text:p>
-   <text:p text:style-name="P16"><text:soft-page-break/><text:span text:style-name="T13">Jungle</text:span> – <text:span text:style-name="T11">Sections of the map between the three lanes are known as the jungle.</text:span></text:p>
-   <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Category:Jungler_champion"><text:span text:style-name="T16">Jungler Champion</text:span></text:a><text:span text:style-name="T24"> – The </text:span><text:span text:style-name="T9">Jungler Champion</text:span><text:span text:style-name="T24"> type of champion excel at being junglers. Instead of starting the game in one of the three lanes, they get their gold and experience by killing jungle creeps. This allows for an extra solo lane on their team for quicker leveling and gold gain, giving their team an advantage over a team that does not have a jungler. The junglers are typically excellent at ganking, which they do whenever the other team overextends in a lane, since a champion coming out of a jungle always carries an element of surprise to the opposing team. It is also the job of the jungler to guard or secure the Dragon by either killing it for their team, or preventing the other team from doing so. </text:span></text:p>
-   <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Jungling"><text:span text:style-name="T15">Jungl</text:span></text:a><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Jungling"><text:span text:style-name="T16">ing</text:span></text:a><text:span text:style-name="T23"> – </text:span><text:span text:style-name="T8">Jungling</text:span> is considered a position much like the lanes involving killing neutral &quot;Monsters&quot; located on the maps between the lanes. <text:span text:style-name="T25">Junglers</text:span> dedicate themselves to the farm available in the Jungle. <text:span text:style-name="T25">Jungle</text:span> refers to any area of the map that is not a lane or part of either team&apos;s base, including the river that divides it. </text:p>
-   <text:p text:style-name="P20">Jungling is a role limited to Summoner&apos;s Rift, and to a lesser extent the Twisted Treeline, which is limited and not as major a part of team strategy due to the small size of the map and the jungle providing less consistent farm. </text:p>
-   <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Champion"><text:span text:style-name="T16">Champions</text:span></text:a><text:span text:style-name="T24"> – </text:span>A <text:span text:style-name="T13">champion</text:span> is a being or person that has been summoned to wage battle on the Fields of Justice. Champions generally fall into certain categories based on their skills. These are also called tags and are used on the attributes space on each champion<text:span text:style-name="T24">&apos;s</text:span> main page <text:span text:style-name="T24">in the store.</text:span></text:p>
-   <text:p text:style-name="P16"/>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Minions"><text:span text:style-name="T18">Minions</text:span></text:a><text:span text:style-name="T35"> – </text:span><text:span text:style-name="T12">Minions </text:span>are expendable allied units that are generated automatically to charge into battle with the purpose of attacking enemy units in the lanes they are assigned. </text:p>
+   <text:p text:style-name="P15">You can get Mumble here:</text:p>
+   <text:p text:style-name="P15"><text:a xlink:type="simple" xlink:href="http://mumble.sourceforge.net/"><text:span text:style-name="T32">http://mumble.sourceforge.net/</text:span></text:a></text:p>
+   <text:p text:style-name="P5"/>
+   <text:p text:style-name="P14">Oth<text:span text:style-name="T32">e</text:span>r good alternatives include:</text:p>
+   <text:p text:style-name="P14"><text:a xlink:type="simple" xlink:href="http://www.skype.com/">Skype</text:a> (by Microsoft Inc.). <text:span text:style-name="T36">Skype is a major platform that is easy to use and does not require setting up a personal server or renting a server to use. The writer of this guide used Skype for a couple of years before switching to Mumble.</text:span></text:p>
+   <text:p text:style-name="P11"><text:a xlink:type="simple" xlink:href="http://www.teamspeak.com/"><text:span text:style-name="T25">TeamSpeak</text:span></text:a><text:span text:style-name="T25"> (by </text:span>TeamSpeak Systems GmbH<text:span text:style-name="T25">).</text:span></text:p>
+   <text:p text:style-name="P11"><text:a xlink:type="simple" xlink:href="http://www.ventrilo.com/"><text:span text:style-name="T25">Ventrillo</text:span></text:a><text:span text:style-name="T25"> (by </text:span>Flagship Industries Inc.<text:span text:style-name="T25">). </text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P8">2. Each player should learn <text:span text:style-name="T36">to play a </text:span>primary role<text:span text:style-name="T32">, and a secondary role with a handful of champions</text:span></text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P19">If you have a full five person team, then each team member should learn a specific role. </text:p>
+   <text:p text:style-name="P4"/>
+   <text:p text:style-name="P4">3. <text:span text:style-name="T32">Assign general objective responsibilities per teammate.</text:span></text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18">Objective responsibilities should be assigned to each player on your team. The major brunt of these responsibilities is warding. Games are won and lost because of vision control. Remaining in control of map vision makes safe split pushing, getting drake and Baron possible. As of Season 4, there is no reason why every member on the cannot buy a pink ward at some point early in the game. Placing pink wards in allied jungle is one way to stay on top of map vision control. See the image for suggested pink ward locations.</text:p>
+   <text:p text:style-name="P18"/>
+   <text:p text:style-name="P18">It takes </text:p>
+   <text:p text:style-name="P2"/>
+   <text:h text:style-name="P46" text:outline-level="1"><text:soft-page-break/>Chapter <text:span text:style-name="T38">4</text:span></text:h>
+   <text:h text:style-name="P53" text:outline-level="2">Learning Valuable Life Lessons through League of Legends</text:h>
+   <text:p text:style-name="P27">It is for this reason valuable life lessons can be learned though playing it. During the course of the game a player faces many decisions that could change the outcome of the game. Should he continue to push a lane alone, or join his team? Should he respond to <text:span text:style-name="T31">multiple allied top lane</text:span> deaths by <text:span text:style-name="T32">raging against his top lane player, or calmly give constructive suggestions? </text:span></text:p>
+   <text:h text:style-name="P43" text:outline-level="1"><text:span text:style-name="T25">Game </text:span>Terminology</text:h>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Feed"><text:span text:style-name="T15">Feed</text:span></text:a><text:span text:style-name="T12"> – </text:span><text:span text:style-name="T13">Feeding</text:span> is the act of being killed repeatedly, and thereby assisting the enemy team. This can happen by repeatedly overextending the champions capabilities, by lack of skill, false positioning, being too weak and thereby unable to compete with any other champion, or even intentionally. </text:p>
+   <text:p text:style-name="P21">Throw – <text:span text:style-name="T12">To throw, also known as </text:span>“<text:span text:style-name="T12">Throwing,” is to make a bad choice that could result in the loss of an objective; sometimes the loss of the game.</text:span></text:p>
+   <text:p text:style-name="P21">Last hit – <text:span text:style-name="T12">Last hitting is getting the final damage on a Champion, Tower, Creep, or Jungle creature. You will gain gold from last hitting any of these objects. </text:span></text:p>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Damage"><text:span text:style-name="T17">Damage</text:span></text:a><text:span text:style-name="T25"> – The term damage </text:span>may refer to four different things: <text:span text:style-name="T25">Attack Damage, Physical Damage, Magic Damage, True Damage (see below).</text:span></text:p>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Attack_damage"><text:span text:style-name="T16">Attack Damage</text:span></text:a><text:span text:style-name="T24"> (AD) – </text:span>a champion statistic which directly affects how much physical damage a champion does with its autoattacks and some abilities. </text:p>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Physical_damage"><text:span text:style-name="T17">Physical Damage</text:span></text:a><text:span text:style-name="T25"> (PD) – </text:span>a type of damage that champions&apos; autoattacks, some abilities, minions, and turrets deal. Armor reduces incoming physical damage.</text:p>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_damage"><text:span text:style-name="T17">Magic Damage</text:span></text:a><text:span text:style-name="T25"> (also known as Ability Power or AP) – </text:span>a type of damage that most abilities, items, and on-hit effects deal. Magic resistance reduces incoming magic damage. </text:p>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/True_damage"><text:span text:style-name="T15">True Damage</text:span></text:a><text:span text:style-name="T12"> –</text:span> a type of damage that some abilities and spells deal. This damage cannot be reduced and always does exactly the value stated. </text:p>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Armor_penetration"><text:span text:style-name="T15">Armor Penetration</text:span></text:a><text:span text:style-name="T12"> – </text:span>a champion statistic that allows the champion to ignore some or all of a target&apos;s armor. All champions have 0 base armor penetration but can increase it with items, runes, masteries and some champion abilities. This <text:span text:style-name="T4">cannot</text:span> affect enemy armor beyond 0 to deal bonus damage. </text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T13">Armor reduction </text:span>is the effect of some items and champion abilities that temporarily reduces the armor of one or more targets. This allows allies to benefit from the reduction of armor. This <text:span text:style-name="T4">can</text:span> reduce armor below 0, resulting in bonus damage (see Armor). </text:p>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_penetration"><text:span text:style-name="T15">Magic Penetration</text:span></text:a><text:span text:style-name="T12"> – </text:span><text:span text:style-name="T13">Magic penetration</text:span> (or <text:span text:style-name="T13">spell penetration</text:span>) is a champion statistic which allows the magic damage done from their abilities, enhanced attacks, etc. to ignore some or all of a target&apos;s magic resistance. All champions have 0 base magic penetration but can increase it with items, runes or abilities for a few champions. This <text:span text:style-name="T4">cannot</text:span> affect enemy magic resistance beyond 0 to deal bonus damage. </text:p>
+   <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Magic_resistance"><text:span text:style-name="T18">Magic Resistance</text:span></text:a><text:span text:style-name="T18"> </text:span><text:span text:style-name="T34">– </text:span><text:span text:style-name="T13">Magic </text:span><text:span text:style-name="T22">r</text:span><text:span text:style-name="T13">esistance</text:span> (or <text:span text:style-name="T13">MR</text:span>) is a stat that all units have, including minions, monsters, and buildings. Increasing magic resistance reduces the magic damage the unit takes. Each champion begins with some magic resistance which may increase with level. You can gain additional <text:soft-page-break/>magic resistance from abilities, items, masteries, and runes. Magic resistance stacks additively. </text:p>
+   <text:p text:style-name="Text_20_body">All champions begin with 30 base magic resistance. All champions that do gain magic resistance per level gain 1.<text:span text:style-name="T34">25</text:span> magic resistance per level, reaching 5<text:span text:style-name="T34">2</text:span>.<text:span text:style-name="T34">5</text:span> base magic resistance at level 18. </text:p>
+   <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Armor"><text:span text:style-name="T18">Armor</text:span></text:a><text:span text:style-name="T34"> – </text:span><text:span text:style-name="T13">Armor</text:span> is a stat shared by all units, including minions, monsters, and buildings. Increasing armor reduces the physical damage the unit takes. Each champion begins with some armor which increases with level (Thresh being the only exception). You can gain additional armor from abilities, items, masteries, and runes. Armor stacks additively. </text:p>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Mastery"><text:span text:style-name="T17">Masteries</text:span></text:a><text:span text:style-name="T27"> – </text:span>A <text:span text:style-name="T14">Mastery</text:span><text:span text:style-name="T26"> </text:span>is an area that a summoner is able to focus their intense magical training into, categorized into three specific categories, which are collectively known as masteries. Some of the more advanced masteries require not only a working knowledge of previous masteries within a single category, but also the knowledge of a specific mastery. As a summoner gains levels of power within the League of Legends, they are able to select which specific areas of interest to focus on. </text:p>
+   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Category:Support_champion"><text:span text:style-name="T16">Support</text:span></text:a><text:span text:style-name="T24"> – </text:span><text:span text:style-name="T14">Supports</text:span> make plays by enabling their allies through buffs and heals, or by disrupting enemy lines through crowd control. From laning to late game teamfights, supports create advantages and opportunities for their teammates to capitalize on. A skilled support gives their team the edge it needs to claim victory, and can turn the tide of battle with just one well-timed play. </text:p>
+   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/ADC"><text:span text:style-name="T16">ADC</text:span></text:a><text:span text:style-name="T24"> – </text:span><text:span text:style-name="T14">ADC</text:span><text:span text:style-name="T17">s</text:span><text:span text:style-name="T13">,</text:span> now officially known as <text:span text:style-name="T14">Marksmen</text:span><text:span text:style-name="T13">,</text:span> <text:span text:style-name="T25">typically </text:span>refer<text:span text:style-name="T25">s</text:span> to champions who have been tagged as <text:span text:style-name="T26">Attack</text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T26">Damage</text:span><text:span text:style-name="T13"> </text:span><text:span text:style-name="T26">Carries.</text:span></text:p>
+   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Nexus_Obelisk"><text:span text:style-name="T20">Nexus Obelisk</text:span></text:a><text:span text:style-name="T24"> – The </text:span><text:span text:style-name="T16">Nexux Obelisk</text:span><text:span text:style-name="T24"> is a special type of turret. It is located at each team&apos;s Spawn Pool and is untargetable (even by Ohmwrecker). On Summoner&apos;s Rift, Proving Grounds (), Twisted Treeline, and Howling Abyss, the Nexus Obelisk is near the shop on each team. It deals 1000 true damage per shot with an attack speed of 2.0. Its damage is not blocked by any type of defensive abilities or stats such as armor, magic resistance. </text:span></text:p>
+   <text:p text:style-name="P21"><text:span text:style-name="T14">Jungle</text:span> – <text:span text:style-name="T12">Sections of the map between the three lanes are known as the jungle.</text:span></text:p>
+   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Category:Jungler_champion"><text:span text:style-name="T17">Jungler Champion</text:span></text:a><text:span text:style-name="T25"> – The </text:span><text:span text:style-name="T10">Jungler Champion</text:span><text:span text:style-name="T25"> type of champion excel at being junglers. Instead of starting the game in one of the three lanes, they get their gold and experience by killing jungle creeps. This allows for an extra solo lane on their team for quicker leveling and gold gain, giving their team an advantage over a team that does not have a jungler. The junglers are typically excellent at ganking, which they do whenever the other team overextends in a lane, since a champion coming out of a jungle always carries an element of surprise to the opposing team. It is also the job of the jungler to guard or secure the Dragon by either killing it for their team, or preventing the other team from doing so. </text:span></text:p>
+   <text:p text:style-name="P25"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Jungling"><text:span text:style-name="T16">Jungl</text:span></text:a><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Jungling"><text:span text:style-name="T17">ing</text:span></text:a><text:span text:style-name="T24"> – </text:span><text:span text:style-name="T9">Jungling</text:span> is considered a position much like the lanes involving killing neutral &quot;Monsters&quot; located on the maps between the lanes. <text:span text:style-name="T26">Junglers</text:span> dedicate themselves to the farm available in the Jungle. <text:span text:style-name="T26">Jungle</text:span> refers to any area of the map that is not a lane or part of either team&apos;s base, including the river that divides it. </text:p>
+   <text:p text:style-name="P25">Jungling is a role limited to Summoner&apos;s Rift, and to a lesser extent the Twisted Treeline, which is limited and not as major a part of team strategy due to the small size of the map and the jungle providing less consistent farm. </text:p>
+   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Champion"><text:span text:style-name="T17">Champions</text:span></text:a><text:span text:style-name="T25"> – </text:span>A <text:span text:style-name="T14">champion</text:span> is a being or person that has been summoned to wage battle on the Fields of Justice. Champions generally fall into certain categories based on their skills. These are also called tags and are used on the attributes space on each champion<text:span text:style-name="T25">&apos;s</text:span> main page <text:span text:style-name="T25">in the store.</text:span></text:p>
+   <text:p text:style-name="P21"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Minions"><text:span text:style-name="T19">Minions</text:span></text:a><text:span text:style-name="T36"> – </text:span><text:span text:style-name="T13">Minions </text:span>are expendable allied units that are generated automatically to charge into battle with the purpose of attacking enemy units in the lanes they are assigned. </text:p>
    <text:p text:style-name="Text_20_body">The blue and purple team minions spawn every 30 seconds from the Nexus in order to support the champions. Minions begin spawning 1 minute 30 seconds after the game has begun. Every 3 minutes the minion waves will grow stronger, with every type of minion gaining different stats. Minions deal 50% increased damage to turrets and deal about 15% reduced damage to enemy champions. </text:p>
-   <text:p text:style-name="Text_20_body"><text:span text:style-name="T3">Note: Minions should not be confused with monsters, which are neutral unless attacked and reside in the jungle.</text:span> </text:p>
+   <text:p text:style-name="Text_20_body"><text:span text:style-name="T4">Note: Minions should not be confused with monsters, which are neutral unless attacked and reside in the jungle.</text:span> </text:p>
    <text:p text:style-name="Text_20_body">There are five types of minions that are currently in the game:</text:p>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Melee_minion"><text:span text:style-name="T18">Melee Minion</text:span></text:a><text:span text:style-name="T35"> – </text:span>The <text:span text:style-name="T12">Melee Minion</text:span><text:span text:style-name="T22">s</text:span> charge directly towards the closest enemy. <text:s/>Three melee minions spawn with each minion wave.</text:p>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Caster_minion"><text:span text:style-name="T18">Caster Minion</text:span></text:a><text:span text:style-name="T35"> – </text:span><text:span text:style-name="T13">Caster minions</text:span> attack enemies from a range of 600 with bolts of energy that are the same color as their team&apos;s. They deal more damage per attack and have <text:span text:style-name="T35">unnoticeably</text:span> more <text:span text:style-name="T35">damage per second (</text:span>DPS<text:span text:style-name="T35">)</text:span> than their melee counterparts but are otherwise inferior.</text:p>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Siege_minion"><text:span text:style-name="T18">Siege Minion</text:span></text:a><text:span text:style-name="T35"> – </text:span>One <text:span text:style-name="T13">Siege minion</text:span> spawns in every third wave, in each lane. It attacks enemies from a range of 450 with cannon balls. They receive 30% less damage from turrets. Siege minions have more health and deal more damage than the regular wave minions. </text:p>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Anti-turret_cannon"><text:span text:style-name="T18">Anti-Turret Cannon Minion</text:span></text:a><text:span text:style-name="T35"> – </text:span>A siege minion that is promoted turns in to a<text:span text:style-name="T35">n</text:span> Anti-turret cannon (ATC) thus gaining increased attack speed, armor, magic resistance, health and its kills donate the gold to its promoter. ATC&apos;s are the best and strongest among the regular minions.</text:p>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Super_minion"><text:span text:style-name="T18">Super Minion</text:span></text:a><text:span text:style-name="T35"> – </text:span>A Super minion is spawned in each wave to a lane in which the enemy inhibitor is destroyed. They will continue spawning until the inhibitor respawns, which takes four minutes. It replaces the wave&apos;s siege minion and, similarly to it, it takes 30% less damage from turrets. They deal more damage and have more health than any other minion, but have the lowest armor and magic <text:soft-page-break/>resistance. </text:p>
-   <text:p text:style-name="P27"/>
-   <text:p text:style-name="P28"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Lanes"><text:span text:style-name="T14">Lanes</text:span></text:a><text:span text:style-name="T11"> – Lanes </text:span>are the main paths that minions follow in the course of a game. Lanes are defended by turrets, and in order to push the enemy into their base and destroy their inhibitors and Nexus, each successive turret in a lane must be destroyed before damage can be dealt to the next structure. Along each lane are located areas of brush for tactical maneuvering, such as juking and ganking. Controlling a lane is a key tactical component of gameplay; early lane control in a game can put your opponents at a disadvantage by keeping them away from your turrets and denying last hits on minions for much-needed gold. </text:p>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Turret"><text:span text:style-name="T14">Towers/Turrets</text:span></text:a><text:span text:style-name="T11"> – </text:span>A <text:span text:style-name="T12">Turret</text:span>, also called a <text:span text:style-name="T12">Tower</text:span>, is a heavy fortification that blocks the enemy&apos;s minion waves and champions&apos; path to the Nexus. In order for a champion to push forward and continue its assault into the enemies&apos; territory, the champion must destroy these turrets. Charging minions will not be able to pass any further up a lane until the turret closest to them is destroyed. Turrets deal heavy damage to enemy units. Summoner&apos;s Rift has 11 turrets per team. </text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P17">Mid(dle) – </text:p>
-   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Shop"><text:span text:style-name="T17">Shop</text:span></text:a><text:span text:style-name="T33"> – </text:span>The <text:span text:style-name="T12">Shop</text:span> is an area in all League of Legends maps where Summoners can purchase items for their champions. Every shop is located near each team&apos;s spawn pool. A summoner can access the shop either by clicking it with the mouse cursor or by using the default Hotkey, <text:span text:style-name="T25">&quot;P&quot;</text:span>. A champion must be in proximity of the shop for the summoner to obtain items. On Summoner&apos;s Rift This proximity includes most of the Spawn Pool and extends slightly out from it. </text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Item"><text:span text:style-name="T17">Items</text:span></text:a><text:span text:style-name="T33"> – </text:span>An <text:span text:style-name="T12">item</text:span> is an artifact or object carried by champions to enhance their performance on the Fields of Justice. A champion can only carry six items and a Trinket at a time, making the selection of items an important part of achieving victory. Items are only obtainable through the item shop located at the Spawn Pool. This is also where items are sold back for 70% of the total gold spent to obtain them. The exceptions to this are the Prospector, Doran, &amp; Gold Income items, Consumables, and Guardian Angel, which return 40% of their total cost. </text:p>
-   <text:p text:style-name="P17"/>
-   <text:p text:style-name="P18"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Report_function"><text:span text:style-name="T14">Reporting a Player</text:span></text:a><text:span text:style-name="T11"> – </text:span>The <text:span text:style-name="T12">reporting</text:span> function in League of Legends allows players to mark another user as being a <text:span text:style-name="T25">negative/bad.</text:span> Clicking the <text:span text:style-name="T33">red</text:span> exclamation in the post game chat, or right-clicking the offensive player will give you the option to report them. Reports are used in the Tribunal where the offensive players are judged by their fellow players. After you clicked the exclamation mark next to the offensive player&apos;s name, you will then be able to report the player for various behaviors. </text:p>
-   <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/The_Summoner&apos;s_Code"><text:span text:style-name="T17">The Summoner&apos;s Code</text:span></text:a><text:span text:style-name="T33"> – </text:span><text:span text:style-name="T12">The Summoner&apos;s Code</text:span> is a compilation of rules and guidelines that Riot Games provide to the players to abide to when participating in competitive play. These nine patterns of behavior were the ones presented:</text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">1. </text:span>Support your Team</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;[Teamwork] is the fuel that allows common people to attain uncommon results.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Andrew Carnegie </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">2. </text:span>Drive Constructive Feedback</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;When you confront a problem you begin to solve it.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T27">Rudy Giuliani</text:span></text:p>
-   <text:p text:style-name="P23"><text:soft-page-break/><text:span text:style-name="T34">3. </text:span>Facilitate Civil Discussion</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;To disagree, one doesn&apos;t have to be disagreeable.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Barry Goldwater </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">4. </text:span>Enjoy Yourself, but not as Anyone Else&apos;s Expense</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;Short is the joy that guilty pleasure brings.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Euripides </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">5. </text:span>Build Relationships</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;No man is an island...&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">John Donne </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">6. </text:span>Show Humility in Victory, and Grace in Defeat</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;To be humble to superiors is duty, to equals is courtesy, to inferiors is nobility.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Benjamin Franklin </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">7. </text:span>Be Resolute, not Indignant</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Julius Caesar</text:span> </text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">8. </text:span>Leave No Newbie Behind!</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;Be an opener of doors for such as come after thee.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Ralph Waldo Emerson </text:span></text:p>
-   <text:p text:style-name="P23"><text:span text:style-name="T34">9. </text:span>Lead by Example</text:p>
-   <text:p text:style-name="P47"><text:span text:style-name="T3">&quot;Leadership is practiced not so much in words as in attitude and in actions.&quot; </text:span><text:span text:style-name="T6">–</text:span><text:span text:style-name="T25">Harold S. Geneen</text:span></text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Melee_minion"><text:span text:style-name="T19">Melee Minion</text:span></text:a><text:span text:style-name="T36"> – </text:span>The <text:span text:style-name="T13">Melee Minion</text:span><text:span text:style-name="T23">s</text:span> charge directly towards the closest enemy. <text:s/>Three melee minions spawn with each minion wave.</text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Caster_minion"><text:span text:style-name="T19">Caster Minion</text:span></text:a><text:span text:style-name="T36"> – </text:span><text:span text:style-name="T14">Caster minions</text:span> attack enemies from a range of 600 with bolts of energy that are the same color as their team&apos;s. They deal more damage per attack and have <text:span text:style-name="T36">unnoticeably</text:span> more <text:span text:style-name="T36">damage per second (</text:span>DPS<text:span text:style-name="T36">)</text:span> than their melee counterparts but are otherwise inferior.</text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Siege_minion"><text:span text:style-name="T19">Siege Minion</text:span></text:a><text:span text:style-name="T36"> – </text:span>One <text:span text:style-name="T14">Siege minion</text:span> spawns in every third wave, in each lane. It attacks enemies from a range of 450 with cannon balls. They receive 30% less damage from turrets. Siege minions have more health and deal more damage than the regular wave minions. </text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Anti-turret_cannon"><text:span text:style-name="T19">Anti-Turret Cannon Minion</text:span></text:a><text:span text:style-name="T36"> – </text:span>A siege minion that is promoted turns in to a<text:span text:style-name="T36">n</text:span> Anti-turret cannon (ATC) thus gaining increased attack speed, armor, magic resistance, health and its kills donate the gold to its promoter. ATC&apos;s are the best and strongest among the regular minions.</text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Super_minion"><text:span text:style-name="T19">Super Minion</text:span></text:a><text:span text:style-name="T36"> – </text:span>A Super minion is spawned in each wave to a lane in which the enemy inhibitor is destroyed. They will continue spawning until the inhibitor respawns, which takes four minutes. It replaces the wave&apos;s siege minion and, similarly to it, it takes 30% less damage from turrets. They deal more damage and have more health than any other minion, but have the lowest armor and magic resistance. </text:p>
+   <text:p text:style-name="P35"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Lanes"><text:span text:style-name="T15">Lanes</text:span></text:a><text:span text:style-name="T12"> – Lanes </text:span>are the main paths that minions follow in the course of a game. Lanes are defended by turrets, and in order to push the enemy into their base and destroy their inhibitors and Nexus, each successive turret in a lane must be destroyed before damage can be dealt to the next structure. Along each lane are located areas of brush for tactical maneuvering, such as juking and ganking. Controlling a lane is a key tactical component of gameplay; early lane control in a game can put your opponents at a disadvantage by keeping them away from your turrets and denying last hits on minions for much-needed gold. </text:p>
+   <text:p text:style-name="P66">Lane Roles or Lane Positions</text:p>
+   <text:p text:style-name="P65">Top – </text:p>
+   <text:p text:style-name="P64">Mid(dle) – </text:p>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Turret"><text:span text:style-name="T15">Towers/Turrets</text:span></text:a><text:span text:style-name="T12"> – </text:span>A <text:span text:style-name="T13">Turret</text:span>, also called a <text:span text:style-name="T13">Tower</text:span>, is a heavy fortification that blocks the enemy&apos;s minion waves and champions&apos; path to the Nexus. In order for a champion to push forward and continue its assault into the enemies&apos; territory, the champion must destroy these turrets. Charging minions will not be able to pass any further up a lane until the turret closest to them is destroyed. Turrets deal heavy damage to enemy units. Summoner&apos;s Rift has 11 turrets per team. </text:p>
+   <text:p text:style-name="P22"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Shop"><text:span text:style-name="T18">Shop</text:span></text:a><text:span text:style-name="T34"> – </text:span>The <text:span text:style-name="T13">Shop</text:span> is an area in all League of Legends maps where Summoners can purchase items for their champions. Every shop is located near each team&apos;s spawn pool. A summoner can access the shop either by clicking it with the mouse cursor or by using the default Hotkey, <text:span text:style-name="T26">&quot;P&quot;</text:span>. A champion must be in proximity of the shop for the summoner to obtain items. On Summoner&apos;s Rift This proximity includes most of the Spawn Pool and extends slightly out from it. </text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Item"><text:span text:style-name="T18">Items</text:span></text:a><text:span text:style-name="T34"> – </text:span>An <text:span text:style-name="T13">item</text:span> is an artifact or object carried by champions to enhance their performance on the Fields of Justice. A champion can only carry six items and a Trinket at a time, making the selection of items an important part of achieving victory. Items are only obtainable through the item shop located at the Spawn Pool. This is also where items are sold back for 70% of the total gold spent to obtain them. The exceptions to this are the Prospector, Doran, &amp; Gold Income items, Consumables, and Guardian Angel, which return 40% of their total cost. </text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P23"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/Report_function"><text:span text:style-name="T15">Reporting a Player</text:span></text:a><text:span text:style-name="T12"> – </text:span>The <text:span text:style-name="T13">reporting</text:span> function in League of Legends allows players to mark another user as being a <text:span text:style-name="T26">negative/bad.</text:span> Clicking the <text:span text:style-name="T34">red</text:span> exclamation in the post game chat, or right-clicking the offensive player will give you the option to report them. Reports are used in the Tribunal where the offensive players are judged by their fellow players. After you clicked the exclamation mark next to the offensive player&apos;s name, you will then be able to report the player for various behaviors. </text:p>
+   <text:p text:style-name="P31"><text:a xlink:type="simple" xlink:href="http://leagueoflegends.wikia.com/wiki/The_Summoner&apos;s_Code"><text:span text:style-name="T18">The Summoner&apos;s Code</text:span></text:a><text:span text:style-name="T34"> – </text:span><text:span text:style-name="T13">The Summoner&apos;s Code</text:span> is a compilation of rules and guidelines that Riot Games provide<text:span text:style-name="T1">s</text:span> to the players to abide <text:span text:style-name="T1">by</text:span> when participating in competitive play. These nine patterns of behavior <text:span text:style-name="T1">are</text:span> the ones presented <text:span text:style-name="T1">on the official League of Legends website</text:span>:</text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">1. </text:span>Support your Team</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;[Teamwork] is the fuel that allows common people to attain uncommon results.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Andrew Carnegie </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">2. </text:span>Drive Constructive Feedback</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;When you confront a problem you begin to solve it.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T28">Rudy Giuliani</text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">3. </text:span>Facilitate Civil Discussion</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;To disagree, one doesn&apos;t have to be disagreeable.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Barry Goldwater </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">4. </text:span>Enjoy Yourself, but not as Anyone Else&apos;s Expense</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;Short is the joy that guilty pleasure brings.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Euripides </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">5. </text:span>Build Relationships</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;No man is an island...&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">John Donne </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">6. </text:span>Show Humility in Victory, and Grace in Defeat</text:p>
+   <text:p text:style-name="P59"><text:soft-page-break/><text:span text:style-name="T4">&quot;To be humble to superiors is duty, to equals is courtesy, to inferiors is nobility.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Benjamin Franklin </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">7. </text:span>Be Resolute, not Indignant</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;It is easier to find men who will volunteer to die, than to find those who are willing to endure pain with patience.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Julius Caesar</text:span> </text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">8. </text:span>Leave No Newbie Behind!</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;Be an opener of doors for such as come after thee.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Ralph Waldo Emerson </text:span></text:p>
+   <text:p text:style-name="P30"><text:span text:style-name="T35">9. </text:span>Lead by Example</text:p>
+   <text:p text:style-name="P59"><text:span text:style-name="T4">&quot;Leadership is practiced not so much in words as in attitude and in actions.&quot; </text:span><text:span text:style-name="T7">–</text:span><text:span text:style-name="T26">Harold S. Geneen</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
